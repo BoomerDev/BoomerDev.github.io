@@ -1,0 +1,1 @@
+Endo is an Open Source and Cross Platform build tool for your C/C++ projects. The goal is to make a build tool that has the functionality of tools like SCons and CMake, but with a simplified workflow.

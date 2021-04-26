@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+
+.title {
+    font-family: 'Open Sans';
+}
+
+.menubar {
+    font-family: 'Open Sans';
+}
+
+.about {
+    font-family: 'Noto Sans JP';
+    max-width: 600px;
+    overflow-wrap: break-word;
+}
